@@ -1,0 +1,5 @@
+user_input = input("Enter your age: ")
+print(user_input)
+print(type(user_input))
+user_input2=int(user_input)
+print(type(user_input2))
